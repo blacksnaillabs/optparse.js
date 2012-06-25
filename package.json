@@ -1,0 +1,27 @@
+{
+	"name": "optparse.js",
+	"description": "A class for command-line option analysis.",
+	"version": "0.0.1",
+	"keywords": [
+		"optparse",
+		"option",
+		"parser",
+		"analysis",
+		"command-line",
+		"js",
+		"javascript"
+	],
+	"author": {
+		"name": "",
+		"email": ""
+	},
+	"contributors": [],
+	"main": "./lib/optparse",
+	"bin": {}, 
+	"engines": {
+		"node": ">=0.1.93"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+	"optionalDependencies": {}
+}
